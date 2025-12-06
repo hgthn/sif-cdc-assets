@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fond transparent -->
+  <rect width="32" height="32" fill="none"/>
+  
+  <!-- Cauri 1 - haut -->
+  <g transform="translate(16,9) rotate(0)">
+    <path d="M-6,0 Q-8,5-5,10 Q0,12 5,10 Q8,5 6,0 Q0,-4-6,0" fill="#B87333"/>
+    <path d="M-5,2 Q0,0 5,2" stroke="#8B5A2B" stroke-width="1.5" fill="none"/>
+    <path d="M-4,4 Q0,2.5 4,4 M-3.5,6 Q0,5 3.5,6 M-3,8 Q0,7 3,8" stroke="#8B5A2B" stroke-width="0.8" fill="none"/>
+    <path d="M-4,-2 Q0,-1.5 4,-2" stroke="#D4AF37" stroke-width="0.6" fill="none"/>
+  </g>
+  
+  <!-- Cauri 2 - bas gauche -->
+  <g transform="translate(10,20) rotate(-120)">
+    <path d="M-6,0 Q-8,5-5,10 Q0,12 5,10 Q8,5 6,0 Q0,-4-6,0" fill="#B87333"/>
+    <path d="M-5,2 Q0,0 5,2" stroke="#8B5A2B" stroke-width="1.5" fill="none"/>
+    <path d="M-4,4 Q0,2.5 4,4 M-3.5,6 Q0,5 3.5,6 M-3,8 Q0,7 3,8" stroke="#8B5A2B" stroke-width="0.8" fill="none"/>
+    <path d="M-4,-2 Q0,-1.5 4,-2" stroke="#D4AF37" stroke-width="0.6" fill="none"/>
+  </g>
+  
+  <!-- Cauri 3 - bas droite -->
+  <g transform="translate(22,20) rotate(120)">
+    <path d="M-6,0 Q-8,5-5,10 Q0,12 5,10 Q8,5 6,0 Q0,-4-6,0" fill="#B87333"/>
+    <path d="M-5,2 Q0,0 5,2" stroke="#8B5A2B" stroke-width="1.5" fill="none"/>
+    <path d="M-4,4 Q0,2.5 4,4 M-3.5,6 Q0,5 3.5,6 M-3,8 Q0,7 3,8" stroke="#8B5A2B" stroke-width="0.8" fill="none"/>
+    <path d="M-4,-2 Q0,-1.5 4,-2" stroke="#D4AF37" stroke-width="0.6" fill="none"/>
+  </g>
+  
+  <!-- Texte SIFC centré très discret (optionnel – tu peux supprimer les 2 lignes si tu préfères pure cauris) -->
+  <text x="16" y="20" font-family="Georgia, serif" font-size="6" font-weight="bold" fill="#8B5A2B" text-anchor="middle" letter-spacing="0.5">SIFC</text>
+</svg>
